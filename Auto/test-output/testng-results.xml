@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-20T08:33:42Z" name="Default suite" finished-at="2021-09-20T08:34:15Z" duration-ms="33312">
+    <groups>
+    </groups>
+    <test started-at="2021-09-20T08:33:42Z" name="Default test" finished-at="2021-09-20T08:34:15Z" duration-ms="33312">
+      <class name="Scripts.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:33:42Z" name="setup" finished-at="2021-09-20T08:33:47Z" duration-ms="5380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithvalidText()[pri:1, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:33:47Z" name="SearchWithvalidText" description="valid value in the search text box" finished-at="2021-09-20T08:33:52Z" duration-ms="5038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithvalidText -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:33:52Z" name="quit" finished-at="2021-09-20T08:33:52Z" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:33:52Z" name="setup" finished-at="2021-09-20T08:33:57Z" duration-ms="4970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithInvalidText()[pri:2, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:33:57Z" name="SearchWithInvalidText" description="Invalid value in the search text box" finished-at="2021-09-20T08:34:02Z" duration-ms="4249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithInvalidText -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:34:02Z" name="quit" finished-at="2021-09-20T08:34:02Z" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:34:02Z" name="setup" finished-at="2021-09-20T08:34:07Z" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithInvalidnumericvalue()[pri:3, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:34:07Z" name="SearchWithInvalidnumericvalue" description="Minus numeric value in the search text box" finished-at="2021-09-20T08:34:15Z" duration-ms="8008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithInvalidnumericvalue -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Scripts.Search@6cd28fa7]" started-at="2021-09-20T08:34:15Z" name="quit" finished-at="2021-09-20T08:34:15Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Scripts.Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
